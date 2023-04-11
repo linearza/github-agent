@@ -1,0 +1,28 @@
+{
+  "name": "github-agent",
+  "version": "1.0.0",
+  "description": "Basic AI ready github agent file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linearza/github-agent.git"
+  },
+  "keywords": [
+    "AI",
+    "chatgpt",
+    "agent",
+    "github"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linearza/github-agent/issues"
+  },
+  "homepage": "https://github.com/linearza/github-agent#readme",
+  "dependencies": {
+    "@octokit/rest": "^19.0.7"
+  }
+}
